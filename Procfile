@@ -1,1 +1,1 @@
-web: node ./index.js --
+web: node ./desktop/badBank-main/index.js --
