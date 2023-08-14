@@ -1,1 +1,0 @@
-web: node ./desktop/badBank-main/index.js --
